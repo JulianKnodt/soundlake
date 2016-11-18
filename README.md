@@ -77,9 +77,8 @@ sl.tracks('scrub', console.log).on('response', ...);
 
 ## Github
 
-Not Created Yet
 
-[![Git Icon](http://www.pngall.com/wp-content/uploads/2016/04/Github-Free-PNG-Image.png)](https://github.com/JulianKnodt)
+[![Git Icon](http://www.pngall.com/wp-content/uploads/2016/04/Github-Free-PNG-Image.png)](https://github.com/JulianKnodt/soundlake)
 
 License
 ----
@@ -88,5 +87,4 @@ MIT
 
 
 **Free Software, Hell Yeah!**
-
 
