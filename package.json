@@ -1,0 +1,16 @@
+{
+  "name": "soundlake",
+  "version": "0.0.6",
+  "description": "Soundcloud SDK remade",
+  "main": "soundlake.js",
+  "dependencies": {
+    "request": "^2.78.0",
+    "query-string": "^4.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Knodt <julianknodt@gmail.com>",
+  "license": "MIT"
+}
